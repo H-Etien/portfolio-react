@@ -17,6 +17,8 @@ const App = () => {
             <section>Portfolio</section>
             <section>Contact</section> */}
             <Test />
+            <Test />
+            <Test />
         </div>
     );
 };
