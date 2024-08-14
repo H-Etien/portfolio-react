@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -44,7 +43,3 @@ npm run dev
 
 ---
 
-## Fonctionnalités
-
--
->>>>>>> 8eda2d53cd66492b57819be66a8638b635ff94c0
